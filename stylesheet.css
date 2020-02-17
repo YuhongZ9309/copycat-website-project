@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+/*Navigation Bar*/
+header {
+    background-color: #2C3E50;
+    color: white;
+    font-family: Lato, helvetica ;
+    border-radius: 5px;
+}
+
+div {
+    margin: 0px 0px;
+}
+
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    float: left;
+    padding: 23.6px 10px;
+    font-size: 15px;
+}
+
+.logo {
+    float: left;
+    padding: 20px 10px;
+    font-size: 20px;
+}
+
+.logo:hover, li:hover {
+    color:#18bc9c;
+}
+
+
